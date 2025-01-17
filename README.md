@@ -9,5 +9,5 @@ Custom array input and adjustable speed.
 ### Tech Stack
 HTML, CSS, JavaScript (Optional: React.js)
 #### Installation
-Clone the repo: git clone https://github.com/yourusername/sorting-algorithm-visualizer.git <br/>
+Clone the repo: git clone https://github.com/SayandeepDutta14/sorting-algorithms-visualizer.git <br/>
 Open index.html in a browser or use a local server.
